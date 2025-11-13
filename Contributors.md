@@ -1,6 +1,7 @@
 # Contributors
 
 - [Zhi Li](https://github.com/lzblack)
+- [Gretel-Zanetti]()
 - [Justin Park](https://github.com/jpvrk)
 - [chloe hsin](https://github.com/ChengEnHsin)
 - [Anthony](https://github.com/AnthonyW26) 
